@@ -1,6 +1,6 @@
 # Tabela Periódica
 
-![Tabela Periódica](fotoReadme)
+<img src="fotoReadme.png" alt="Tabela Periódica">
 
 Este projeto consiste em uma representação visual da Tabela Periódica dos elementos químicos, implementada utilizando HTML, CSS.
 
