@@ -157,7 +157,6 @@ td h4 {
 .vermelho1 {
     background-color: #fc1606;
     color: white;
-    border-left: 2px inset #48d2fb;
 }
 
 .vermelho1:hover {
@@ -176,7 +175,6 @@ td h4 {
 .vinho1 {
     background-color: #52080f;
     color: white;
-    border-left: 2px inset #48d2fb;
 }
 
 .vinho1:hover {
