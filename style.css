@@ -20,7 +20,7 @@ table {
     width: 100%;
     table-layout: fixed;
     border-collapse: separate;
-    line-height: 2px;
+    line-height: 3px;
     padding-left: 1px;
     padding-right: 40px;
 }
@@ -46,7 +46,7 @@ table {
 td {
     text-align: center;
     border: 6px solid #08043f;
-    border-radius: 8px;
+    border-radius: 12px;
     padding: 2px;
 }
 
